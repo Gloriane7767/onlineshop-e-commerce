@@ -183,7 +183,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Gloriane Dev**
-- GitHub: [@yourusername](https://[github.com/yourusername](https://github.com/Gloriane7767))
+- GitHub: [https://github.com/Gloriane7767](https://[github.com/yourusername](https://github.com/Gloriane7767))
 - Email: gloriane7767@gmail.com
 
 ## 🙏 Acknowledgments
